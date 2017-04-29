@@ -1,7 +1,7 @@
 # coding
 Fun problems and challenges
 
-## coin_collector.py
+## robot_coin_collect.py
 Consider a n × m board, where there is at most one coin per cell. A robot, located in the
 upper left cell of the board, needs to collect as many of the coins as possible and bring them
 to the bottom right cell. On each step, the robot can move either one cell to the right or
